@@ -120,10 +120,10 @@ Se non sto codificando o risolvendo problemi matematici, probabilmente sto:
 
 <div align="center">
 
-### Grazie di essere passato dal mio profilo! 🙌
+### Grazie di essere passato dal mio profilo
 
 
-*Il posto giusto è quello dove ci sono le persone giuste.* 🤝
+*Il posto giusto è quello dove ci sono le persone giuste.* 
 
 ---
 
