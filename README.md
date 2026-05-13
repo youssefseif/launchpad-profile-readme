@@ -1,106 +1,43 @@
-# Ciao, sono Youssef! 👋
-
+Ciao, sono Youssef! 👋
 <img width="400" alt="Youssef" src="https://github.com/user-attachments/assets/729ab0d1-be80-4dd0-a034-7f0101eaa68e" />
+Studente di ingegneria aerospaziale appassionato di programmazione e problem-solving. Amo imparare nuove tecnologie e mettere alla prova le mie competenze con sfide interessanti.
 
-Benvenuto nel mio profilo GitHub! Sono uno studente di ingegneria aerospaziale appassionato di programmazione e problem-solving. Amo imparare nuove tecnologie e mettere alla prova le mie competenze con sfide interessanti.
+🚀 Su di me
+Sviluppatore in formazione con curiosità per la tecnologia. Attualmente espando le mie competenze in programmazione, AI locale e hardware.
+Mi piace risolvere problemi, capire come funzionano le cose da vicino, giocare a scacchi e progettare con CAD.
 
----
+🛠️ Tecnologie
+Languages:       C • Python • JavaScript
+Web:             HTML • CSS
+AI & ML Local:   MLX • LM Studio • OpenClaw • AnythingLM
+Hardware:        Arduino • Progettazione CAD
+Learning:        React • Node.js
+Specializzato in AI locale, hardware integration e full stack development.
 
-## 🚀 Su di me
+📈 Quello su cui sto lavorando
 
-Sono uno **sviluppatore in formazione** con una curiosità insaziabile per la tecnologia. Attualmente sto espandendo le mie competenze in vari linguaggi di programmazione, AI locale e hardware, sempre con l'obiettivo di creare soluzioni innovative e efficienti.
-
-### Cosa mi piace:
-- 💻 **Risolvere problemi** - Che siano algoritmi complessi, bug fastidiosi o puzzle hardware!
-- 🤖 **AI Locale** - Far girare modelli LLM potenti senza dipendere dal cloud
-- ⚙️ **Hardware** - Capire come funzionano le cose da vicino e creare prototipi
-- ♟️ **Giocare a scacchi** - Perché la strategia è importante anche nella programmazione
-- 🎨 **Progettare con CAD** - Trasformare idee in realtà visive
-- 📚 **Imparare continuamente** - Ogni giorno è un'opportunità per scoprire qualcosa di nuovo
-
----
-
-## 🛠️ Tecnologie & Linguaggi
-
-Ecco con cosa sto lavorando e imparando:
-
-```
-Languages:           C  •  Python  •  JavaScript
-Web:                 HTML  •  CSS
-AI & ML Local:       MLX  •  LM Studio  •  OpenClaw  •  AnythingLM
-Hardware:            Progettazione & Sviluppo
-Currently Learning:  React  •  Node.js  •  AI Ethics
-```
-
-**Specializzazioni:** 
-- 🤖 **AI Locale** - Lavoro con modelli LLM in locale usando MLX, LM Studio, e altri tool innovativi
-- ⚙️ **Hardware** - Mi piace mettere le mani su componenti fisici e capire come funzionano
-- 🔧 **Full Stack** - Dalla logica di programmazione alla realizzazione fisica
-
----
-
-## 📈 Il mio percorso
-
-- 🎓 Studente di ingegneria aerospaziale appassionato di coding
-- 📚 Ho appena completato un esame di **C**
-- 🌐 Sviluppo le mie competenze in **web development** (HTML, CSS, JavaScript)
-- 🤖 Sto esplorando l'**AI locale** e come far girare modelli LLM in modo efficiente e indipendente dal cloud
-- ⚙️ Mi sto cimentando con il **hardware** e la progettazione
-- 🔍 Sempre alla ricerca di **nuove sfide** e **progetti interessanti**
-
----
-
-## 🤖 Progetti su AI & Hardware
-
-Sto attualmente lavorando su:
-- **MLX** - Ottimizzazione e deployement di modelli su Mac
-- **LM Studio** - Esperimenti con diverse architetture LLM
-- **OpenClaw** - Esplorazione di tool open-source per AI
-- **AnythingLM** - Setup di soluzioni AI versatili
-- **Hardware Integration** - Connessione tra logica software e componenti fisici
-
----
-
-## 🎯 Cosa sto cercando
-
-- **Collaborazioni** su progetti interessanti
-- **Feedback** constructivo sul mio codice
-- **Opportunità** per imparare e crescere
-- **Comunità** di developer appassionati
-
----
-
-## 💡 Filosofia
-
-> "La programmazione è come giocare a scacchi: ogni mossa deve avere uno scopo, e il vero vincitore è chi impara da ogni partita. L'errore è solo un processo per la vittoria."
-
-Credo nell'importanza di:
-- 🧠 **Pensiero critico** e problem-solving
-- 🤝 **Collaborazione** e condivisione di conoscenze
-- 📖 **Apprendimento continuo** e miglioramento
-- 🎯 **Qualità del codice** e buone pratiche
-
----
-
-## 📞 Contattami
-
-- 💬 Sono sempre disponibile per discussioni su programmazione, matematica e scacchi!
-- 🔗 Scopri i miei progetti qui su GitHub
-- 📧 Non esitare a contattarmi per collaborazioni o chiacchiere tech
-
----
-
-## 🎨 Fun Fact
-
-Se non sto programmando o risolvendo problemi matematici, probabilmente sto studiando una nuova apertura agli scacchi o progettando qualcosa di nuovo in CAD! ♟️✏️
-
----
-
-<div align="center">
-
-**Grazie per essere passato dal mio profilo!** 🙌
+AI Locale - Ottimizzazione e deploy di modelli LLM con MLX e LM Studio
+Arduino - Progetti con sensori e componenti fisici
+OpenClaw - Esplorazione di tool open-source per AI
+AnythingLM - Setup di soluzioni AI versatili
+Hardware Integration - Collegare logica software a componenti fisici
 
 
-*Il posto giusto è quello dove ci sono le persone giuste*
+💡 Come lavoro
+Le mie idee e le correzioni vengono da me. Utilizzo AI come strumento di supporto per accelerare il processo di sviluppo e imparare più velocemente. Tutto il codice è revisionato e testato manualmente.
 
-</div>
+🎯 Cosa cerco
+Collaborazioni su progetti interessanti, feedback costruttivo sul codice, opportunità per imparare e comunità di developer appassionati.
+
+💭 Filosofia
+
+"La programmazione è come giocare a scacchi: ogni mossa deve avere uno scopo, la vittoria è un processo e i bug un divertimento"
+
+Credo in pensiero critico, collaborazione, apprendimento continuo e qualità del codice.
+
+📞 Contattami
+Disponibile per discussioni su programmazione, matematica, scacchi e hardware.
+💬 Apri pure una discussione nei miei progetti
+📧 Contattami per collaborazioni
+
+Se non sto codificando, probabilmente sto studiando una nuova apertura agli scacchi, progettando in CAD o sperimentando con Arduino. 
