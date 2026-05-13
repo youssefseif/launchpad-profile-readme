@@ -8,7 +8,7 @@ Studente di ingegneria aerospaziale appassionato di programmazione e problem-sol
 
 ---
 
-## 🚀 Su di me
+ 🚀 Su di me
 
 Sono uno sviluppatore in formazione con una curiosità insaziabile per la tecnologia. Attualmente sto espandendo le mie competenze in programmazione, AI locale e hardware, sempre alla ricerca di nuove sfide che stimolino il mio pensiero critico.
 
