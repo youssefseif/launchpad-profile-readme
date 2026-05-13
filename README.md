@@ -1,6 +1,6 @@
-Ciao, sono Youssef! 👋
+Ciao, sono Youssef! 
 
-<img centred width="350" height="500" alt="Youssef" src="https://github.com/user-attachments/assets/729ab0d1-be80-4dd0-a034-7f0101eaa68e" />
+<img width="250" height="350" alt="Youssef" align="right" src="https://github.com/user-attachments/assets/729ab0d1-be80-4dd0-a034-7f0101eaa68e"  />
 
 Studente di ingegneria aerospaziale appassionato di programmazione e problem-solving. Amo imparare nuove tecnologie e mettere alla prova le mie competenze con sfide interessanti.
 
