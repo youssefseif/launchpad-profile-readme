@@ -100,7 +100,6 @@ Se non sto programmando o risolvendo problemi matematici, probabilmente sto stud
 
 **Grazie per essere passato dal mio profilo!** 🙌
 
-*Keep coding, keep learning, keep growing!*
 
 *Il posto giusto è quello dove ci sono le persone giuste*
 
