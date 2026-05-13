@@ -1,7 +1,7 @@
 # Ciao, sono Youssef! 👋
 
 <div align="center">
-  <img width="280" height="380" alt="Youssef" src="https://github.com/user-attachments/assets/729ab0d1-be80-4dd0-a034-7f0101eaa68e" />
+  <img width="280" height="380" alt="Youssef" align="right" src="https://github.com/user-attachments/assets/729ab0d1-be80-4dd0-a034-7f0101eaa68e" />
 </div>
 
 Studente di ingegneria aerospaziale appassionato di programmazione e problem-solving. Amo imparare nuove tecnologie, risolvere problemi complessi e mettere alla prova le mie competenze con sfide interessanti.
@@ -12,7 +12,7 @@ Studente di ingegneria aerospaziale appassionato di programmazione e problem-sol
 
 Sono uno sviluppatore in formazione con una curiosità insaziabile per la tecnologia. Attualmente sto espandendo le mie competenze in programmazione, AI locale e hardware, sempre alla ricerca di nuove sfide che stimolino il mio pensiero critico.
 
-Mi piace risolvere problemi in modo creativo, capire come funzionano le cose da vicino, studiare strategia attraverso il gioco degli scacchi e progettare soluzioni innovative con CAD. Se una cosa non ha senso, voglio capire il **perché** dietro.
+Mi piace risolvere problemi in modo creativo, capire come funzionano le cose da vicino. Se una cosa non ha senso, voglio capire il **perché** dietro.
 
 Non mi basta memorizzare—voglio **comprendere davvero** come funzionano le cose.
 
@@ -25,7 +25,6 @@ Languages:           C  •  Python  •  JavaScript
 Web:                 HTML  •  CSS
 AI & ML Local:       MLX  •  LM Studio  •  OpenClaw  •  AnythingLM
 Hardware:            Arduino  •  Progettazione CAD  •  Sensori
-Learning:            React  •  Node.js  •  Embedded Systems
 ```
 
 **Specializzazioni:**
@@ -39,7 +38,7 @@ Learning:            React  •  Node.js  •  Embedded Systems
 ## 📈 Su cosa sto lavorando
 
 **AI Locale**  
-Ottimizzazione e deployment di modelli LLM con MLX e LM Studio. Sto esplorando come far girare modelli potenti in locale senza dipendere dal cloud, mantenendo privacy e performance.
+Ottimizzazione e integrazione di modelli LLM con MLX e LM Studio. Sto esplorando come far girare modelli potenti in locale senza dipendere dal cloud, mantenendo privacy e performance.
 
 **Arduino & Hardware**  
 Progetti con sensori, componenti fisici e integrazione software-hardware. Mi interessa capire come il codice che scrivo interagisce con il mondo reale.
@@ -47,8 +46,6 @@ Progetti con sensori, componenti fisici e integrazione software-hardware. Mi int
 **OpenClaw & AnythingLM**  
 Esplorazione di tool open-source per AI e setup di soluzioni AI versatili. Studio come diverse architetture e approcci risolvono problemi diversi.
 
-**Progetti Full Stack**  
-Sviluppo applicazioni che sfruttano modelli LLM locali, interfacce web responsive e logica backend robusta.
 
 ---
 
@@ -82,7 +79,7 @@ Credo fermamente in:
 - 🧠 **Pensiero critico** - Capire il perché, non solo il cosa
 - 🤝 **Collaborazione genuina** - Imparare insieme è più forte che imparare da soli
 - 📖 **Apprendimento continuo** - La tecnologia evolve, io con lei
-- 🎯 **Qualità over quantità** - Codice pulito e ben pensato vale più di 1000 linee di fretta
+
 - 🌍 **Etica nello sviluppo** - Tecnologia responsabile e consapevole
 
 ---
@@ -105,7 +102,7 @@ Sono sempre disponibile per:
 - 📧 Feedback, idee e chiacchiere tech
 - 🤝 Connessioni con developer che ragionano criticamente
 
-Apri pure una discussion nei miei progetti o contattami direttamente. Non morde nessuno! 😊
+
 
 ---
 
@@ -115,9 +112,9 @@ Se non sto codificando o risolvendo problemi matematici, probabilmente sto:
 - ♟️ Studiando una nuova apertura agli scacchi
 - 🎨 Progettando qualcosa di nuovo in CAD
 - 🤖 Sperimentando con nuovi modelli AI locali
-- 🧩 Cercando il prossimo problema interessante da risolvere
 
-La noia è il mio nemico numero uno.
+
+
 
 ---
 
@@ -125,13 +122,12 @@ La noia è il mio nemico numero uno.
 
 ### Grazie di essere passato dal mio profilo! 🙌
 
-*Keep coding, keep learning, keep growing.*
 
 *Il posto giusto è quello dove ci sono le persone giuste.* 🤝
 
 ---
 
 **Ultimo aggiornamento:** Maggio 2026  
-*Sempre work in progress, sempre migliorando* 🚀
+
 
 </div>
